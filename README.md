@@ -15,8 +15,7 @@ This repository contains a suite of custom nodes for ComfyUI that integrate dire
 1.  **Clone the Repository**:
     Navigate to your ComfyUI `custom_nodes` directory and clone this repository.
     ```bash
-    cd /path/to/ComfyUI/custom_nodes
-    git clone https://github.com/your-username/imagex-nodes-comfyui.git imagex
+    git clone https://github.com/pedroluizmossi/imagex-custom-nodes.git
     ```
 
 2.  **Install Dependencies**:
